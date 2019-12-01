@@ -1,0 +1,390 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.4423,37.132 ]
+    },
+    "properties": {
+    "Canyon":"Aguaje Canyon",
+    "State":"Colorado"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.43,38.34 ]
+    },
+    "properties": {
+    "Canyon":"Black Canyon of the Gunnison National Park",
+    "State":"Colorado"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.4044,38.0106 ]
+    },
+    "properties": {
+    "Canyon":"Box Canyon",
+    "State":"Colorado"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.0759,40.041 ]
+    },
+    "properties": {
+    "Canyon":"Byers Canyon",
+    "State":"Colorado"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.5334,40.4227 ]
+    },
+    "properties": {
+    "Canyon":"Canyon of the Lodore",
+    "State":"Colorado"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.1852,39.0856 ]
+    },
+    "properties": {
+    "Canyon":"De Beque Canyon",
+    "State":"Colorado"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.5002,37.5945 ]
+    },
+    "properties": {
+    "Canyon":"Dolores River Canyon",
+    "State":"Colorado"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.5742,38.5054 ]
+    },
+    "properties": {
+    "Canyon":"Englemann Canyon",
+    "State":"Colorado"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.39,40.048 ]
+    },
+    "properties": {
+    "Canyon":"Fourmile Canyon",
+    "State":"Colorado"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.223,39.575 ]
+    },
+    "properties": {
+    "Canyon":"Glenwood Canyon",
+    "State":"Colorado"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.3028,39.5926 ]
+    },
+    "properties": {
+    "Canyon":"Gore Canyon",
+    "State":"Colorado"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.1822,40.0637 ]
+    },
+    "properties": {
+    "Canyon":"Left Hand Canyon",
+    "State":"Colorado"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.555,39.0619 ]
+    },
+    "properties": {
+    "Canyon":"McInnis Canyons National Conservation Area",
+    "State":"Colorado"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.5714,39.0931 ]
+    },
+    "properties": {
+    "Canyon":"Mee Canyon",
+    "State":"Colorado"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.2046,40.5959 ]
+    },
+    "properties": {
+    "Canyon":"Northgate Canyon",
+    "State":"Colorado"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.165,37.5031 ]
+    },
+    "properties": {
+    "Canyon":"Penitente Canyon",
+    "State":"Colorado"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.7484,37.0097 ]
+    },
+    "properties": {
+    "Canyon":"Picture Canyon",
+    "State":"Colorado"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.062,39.2906 ]
+    },
+    "properties": {
+    "Canyon":"Platte Canyon",
+    "State":"Colorado"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.3724,40.4153 ]
+    },
+    "properties": {
+    "Canyon":"Poudre Canyon",
+    "State":"Colorado"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.5144,39.0954 ]
+    },
+    "properties": {
+    "Canyon":"Rattlesnake Canyon",
+    "State":"Colorado"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.0515,39.0703 ]
+    },
+    "properties": {
+    "Canyon":"Ruby Canyon",
+    "State":"Colorado"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.5156,38.4723 ]
+    },
+    "properties": {
+    "Canyon":"South Cheyenne Canyon",
+    "State":"Colorado"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.3918,38.4726 ]
+    },
+    "properties": {
+    "Canyon":"Unaweep Canyon",
+    "State":"Colorado"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.7765,43.7069 ]
+    },
+    "properties": {
+    "Canyon":"Avalanche Canyon",
+    "State":"Wyoming"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Canyon":"Canyons of the Teton Range",
+    "State":"Wyoming"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.702,43.9447 ]
+    },
+    "properties": {
+    "Canyon":"Colter Canyon",
+    "State":"Wyoming"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.4321,44.5612 ]
+    },
+    "properties": {
+    "Canyon":"Golden Gate Canyon",
+    "State":"Wyoming"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.3929,42.402 ]
+    },
+    "properties": {
+    "Canyon":"Northgate Canyon",
+    "State":"Wyoming"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.3014,45.02 ]
+    },
+    "properties": {
+    "Canyon":"Petroglyph Canyon",
+    "State":"Wyoming"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.3929,42.402 ]
+    },
+    "properties": {
+    "Canyon":"Red Canyon",
+    "State":"Wyoming"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.57131,42.47595 ]
+    },
+    "properties": {
+    "Canyon":"Silas Canyon",
+    "State":"Wyoming"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.0004,43.1028 ]
+    },
+    "properties": {
+    "Canyon":"Snake River Canyon",
+    "State":"Wyoming"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.105,43.3113 ]
+    },
+    "properties": {
+    "Canyon":"Wind River Canyon",
+    "State":"Wyoming"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.063,48.2309 ]
+    },
+    "properties": {
+    "Canyon":"Back Rock Canyon",
+    "State":"Montana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.3,46.274 ]
+    },
+    "properties": {
+    "Canyon":"Blodgett Canyon",
+    "State":"Montana"
+    }
+  }
+]
+}
